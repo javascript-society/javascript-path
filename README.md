@@ -21,3 +21,15 @@ Single Page Application |[Single page apps in depth](http://singlepageappbook.co
 Practical Project | [Building A JavaScript Framework](https://s3.amazonaws.com/dailyjs/files/build-a-javascript-framework.pdf) | `free`
 Practical Project | [Building Front-End Web Apps with Plain JavaScript](https://oxygen.informatik.tu-cottbus.de/webeng/JsFrontendApp/book/) | `free`
 Practical Project | [Human JavaScript](http://read.humanjavascript.com/) | `free`
+
+## How to use this list?
+
+Start with the first book, and after finish it, go down to the next one. Repeat this process until you finish all books. :smile:
+
+**PROTIP**: try to create at least one practical project after finish each book.
+
+## Can I submit more books?
+
+Probably not. Why? Because our intention is to keep just one book for each major topic about the JavaScript language, but we encourage you to read more books about such topics.
+
+If you think that a book that you have read is better than the one that was listed here, you can open an issue and we will discuss it.
