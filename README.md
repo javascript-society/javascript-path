@@ -26,7 +26,7 @@ Practical Project | [Human JavaScript](http://read.humanjavascript.com/) | `free
 
 Start with the first book, and after finish it, go down to the next one. Repeat this process until you finish all books. :smile:
 
-**PROTIP**: try to create at least one practical project after finish each book.
+**PROTIP**: try to create at least one practical project after you finish each book.
 
 ## Can I submit more books?
 
