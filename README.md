@@ -10,6 +10,8 @@
 
 1. [Essential Path](#essential-path)
 1. [Additional Resources](#additional-resources)
+1. [How to use this list](#how-to-use-this-list)
+1. [Contributing](#contributing)
 
 ## Essential Path
 
@@ -75,14 +77,16 @@ Books | Price
 :-- | :--:
 [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) | `paid`
 
-## How to use this list?
+## How to use this list
 
 Start with the first book, and after finish it, go down to the next one. Repeat this process until you finish all books. :smile:
 
 **PROTIP**: try to **create** and **deploy** at least one practical project after you finish each book.
 
-## Can I submit more books?
+## Contributing
+
+> "Can I submit more books?"
 
 **Yes!** If you want to suggest a new book, just open an issue and tell us which book we should add here.
 
-**OBS**: After **10** people approve (:+1) your suggestion, the book will be included in our list.
+**OBS**: After **10** people approve (:+1:) your suggestion, the book will be included in our list.
