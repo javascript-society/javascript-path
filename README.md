@@ -9,11 +9,12 @@
 ## Contents
 
 1. [Essential Path](#essential-path)
+1. [Additional Resources](#additional-resources)
 
 ## Essential Path
 
 Topic | Books | Price
-:--: | :--: | :--:
+:-- | :-- | :--:
 Basic JavaScript | [Eloquent JavaScript](http://eloquentjavascript.net/) | `free`
 Tooling | [JavaScript Application Design](https://www.manning.com/books/javascript-application-design) | `paid`
 ES6 | [Exploring ES6](http://exploringjs.com/es6/) | `free`
@@ -27,6 +28,52 @@ Single Page Application |[Single page apps in depth](http://singlepageappbook.co
 Practical Project | [Building A JavaScript Framework](https://s3.amazonaws.com/dailyjs/files/build-a-javascript-framework.pdf) | `free`
 Practical Project | [Building Front-End Web Apps with Plain JavaScript](https://oxygen.informatik.tu-cottbus.de/webeng/JsFrontendApp/book/) | `free`
 Practical Project | [Human JavaScript](http://read.humanjavascript.com/) | `free`
+
+## Additional Resources
+
+### General Concepts
+
+Book | Price
+:-- | :--:
+[Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja) ([second edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)) | `paid`
+[Effective JavaScript](http://effectivejs.com/) | `paid`
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) | `free`
+[JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) | `paid`
+[Professional JavaScript for Web Developers, 3rd Edition](http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-3rd-Edition.productCd-1118222199.html) | `paid`
+[Speaking JavaScript](http://speakingjs.com/es5/) | `free`
+[JavaScript: The Definitive Guide, 6th Edition](http://shop.oreilly.com/product/9780596805531.do) | `paid`
+
+### ES6
+
+Book | Price
+:-- | :--:
+[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/) | `free`
+
+### Testing
+
+Book | Price
+:-- | :--:
+[Test-Driven JavaScript Development](http://tddjs.com/) | `paid`
+[Behaviour Driven Development with JavaScript](http://www.amazon.com/Behaviour-Driven-Development-JavaScript-introduction-ebook/dp/B00CYMN3J2) | `paid`
+
+### Functional Programming
+
+Book | Price
+:-- | :--:
+[Mostrly Adequated Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/) | `free`
+[Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) | `paid`
+
+### Object-Oriented Programming
+
+Book | Price
+:-- | :--:
+[The Principles of Object-Oriented JavaScript](http://shop.oreilly.com/product/9781593275402.do) | `paid`
+
+### Performance
+
+Book | Price
+:-- | :--:
+[High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) | `paid`
 
 ## How to use this list?
 
