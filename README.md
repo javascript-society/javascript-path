@@ -6,6 +6,12 @@
 
 ### :books: List of books to master JavaScript Development
 
+## Contents
+
+1. [Essential Path](#essential-path)
+
+## Essential Path
+
 Topic | Books | Price
 :--: | :--: | :--:
 Basic JavaScript | [Eloquent JavaScript](http://eloquentjavascript.net/) | `free`
