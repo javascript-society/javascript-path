@@ -62,7 +62,7 @@ Books | Price
 
 Books | Price
 :-- | :--:
-[Mostrly Adequated Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/) | `free`
+[Mostly Adequated Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/) | `free`
 [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) | `paid`
 
 ### Object-Oriented Programming
