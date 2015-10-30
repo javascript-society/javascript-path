@@ -10,6 +10,8 @@
 
 1. [Essential Path](#essential-path)
 1. [Additional Resources](#additional-resources)
+1. [How to use this list](#how-to-use-this-list)
+1. [Contributing](#contributing)
 
 ## Essential Path
 
@@ -33,7 +35,7 @@ Practical Project | [Human JavaScript](http://read.humanjavascript.com/) | `free
 
 ### General Concepts
 
-Book | Price
+Books | Price
 :-- | :--:
 [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja) ([second edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)) | `paid`
 [Effective JavaScript](http://effectivejs.com/) | `paid`
@@ -45,44 +47,46 @@ Book | Price
 
 ### ES6
 
-Book | Price
+Books | Price
 :-- | :--:
 [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/) | `free`
 
 ### Testing
 
-Book | Price
+Books | Price
 :-- | :--:
 [Test-Driven JavaScript Development](http://tddjs.com/) | `paid`
 [Behaviour Driven Development with JavaScript](http://www.amazon.com/Behaviour-Driven-Development-JavaScript-introduction-ebook/dp/B00CYMN3J2) | `paid`
 
 ### Functional Programming
 
-Book | Price
+Books | Price
 :-- | :--:
 [Mostrly Adequated Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/) | `free`
 [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) | `paid`
 
 ### Object-Oriented Programming
 
-Book | Price
+Books | Price
 :-- | :--:
 [The Principles of Object-Oriented JavaScript](http://shop.oreilly.com/product/9781593275402.do) | `paid`
 
 ### Performance
 
-Book | Price
+Books | Price
 :-- | :--:
 [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) | `paid`
 
-## How to use this list?
+## How to use this list
 
 Start with the first book, and after finish it, go down to the next one. Repeat this process until you finish all books. :smile:
 
 **PROTIP**: try to **create** and **deploy** at least one practical project after you finish each book.
 
-## Can I submit more books?
+## Contributing
 
-Probably not. Why? Because our intention is to keep just one book for each major topic about the JavaScript language, but we encourage you to read more books about such topics.
+> "Can I submit more books?"
 
-If you think that a book that you have read is better than the one that was listed here, you can open an issue and we will discuss it.
+**Yes!** If you want to suggest a new book, just open an issue and tell us which book we should add here.
+
+**OBS**: After **10** people approve (:+1:) your suggestion, the book will be included in our list.
