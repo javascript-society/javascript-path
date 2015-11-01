@@ -17,19 +17,19 @@
 
 Topic | Books | Price
 :-- | :-- | :--:
-Basic JavaScript | [Eloquent JavaScript](http://eloquentjavascript.net/) | `free`
-Tooling | [JavaScript Application Design](https://www.manning.com/books/javascript-application-design) | `paid`
-ES6 | [Exploring ES6](http://exploringjs.com/es6/) | `free`
-Testing | [JavaScript Testing Recipes](http://jstesting.jcoglan.com/) | `paid`
-DOM | [DOM Enlightenment](http://domenlightenment.com/) | `free`
-Functional Programming | [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read) | `free`
-Object-Oriented Programming | [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) | `free`
-Async Programming | [Async JavaScript](https://pragprog.com/book/tbajs/async-javascript) | `paid`
-Design Patterns & Architectures | [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) | `free`
-Single Page Application |[Single page apps in depth](http://singlepageappbook.com/) | `free`
-Practical Project | [Building A JavaScript Framework](https://s3.amazonaws.com/dailyjs/files/build-a-javascript-framework.pdf) | `free`
-Practical Project | [Building Front-End Web Apps with Plain JavaScript](https://oxygen.informatik.tu-cottbus.de/webeng/JsFrontendApp/book/) | `free`
-Practical Project | [Human JavaScript](http://read.humanjavascript.com/) | `free`
+Basic JavaScript | [Eloquent JavaScript](http://eloquentjavascript.net/) | :free:
+Tooling | [JavaScript Application Design](https://www.manning.com/books/javascript-application-design) | :moneybag:
+ES6 | [Exploring ES6](http://exploringjs.com/es6/) | :free:
+Testing | [JavaScript Testing Recipes](http://jstesting.jcoglan.com/) | :moneybag:
+DOM | [DOM Enlightenment](http://domenlightenment.com/) | :free:
+Functional Programming | [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read) | :free:
+Object-Oriented Programming | [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) | :free:
+Async Programming | [Async JavaScript](https://pragprog.com/book/tbajs/async-javascript) | :moneybag:
+Design Patterns & Architectures | [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) | :free:
+Single Page Application |[Single page apps in depth](http://singlepageappbook.com/) | :free:
+Practical Project | [Building A JavaScript Framework](https://s3.amazonaws.com/dailyjs/files/build-a-javascript-framework.pdf) | :free:
+Practical Project | [Building Front-End Web Apps with Plain JavaScript](https://oxygen.informatik.tu-cottbus.de/webeng/JsFrontendApp/book/) | :free:
+Practical Project | [Human JavaScript](http://read.humanjavascript.com/) | :free:
 
 ## Additional Resources
 
@@ -37,45 +37,45 @@ Practical Project | [Human JavaScript](http://read.humanjavascript.com/) | `free
 
 Books | Price
 :-- | :--:
-[Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja) ([second edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)) | `paid`
-[Effective JavaScript](http://effectivejs.com/) | `paid`
-[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) | `free`
-[JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) | `paid`
-[Professional JavaScript for Web Developers, 3rd Edition](http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-3rd-Edition.productCd-1118222199.html) | `paid`
-[Speaking JavaScript](http://speakingjs.com/es5/) | `free`
-[JavaScript: The Definitive Guide, 6th Edition](http://shop.oreilly.com/product/9780596805531.do) | `paid`
+[Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja) ([second edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)) | :moneybag:
+[Effective JavaScript](http://effectivejs.com/) | :moneybag:
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) | :free:
+[JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) | :moneybag:
+[Professional JavaScript for Web Developers, 3rd Edition](http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-3rd-Edition.productCd-1118222199.html) | :moneybag:
+[Speaking JavaScript](http://speakingjs.com/es5/) | :free:
+[JavaScript: The Definitive Guide, 6th Edition](http://shop.oreilly.com/product/9780596805531.do) | :moneybag:
 
 ### ES6
 
 Books | Price
 :-- | :--:
-[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/) | `free`
+[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/) | :free:
 
 ### Testing
 
 Books | Price
 :-- | :--:
-[Test-Driven JavaScript Development](http://tddjs.com/) | `paid`
-[Behaviour Driven Development with JavaScript](http://www.amazon.com/Behaviour-Driven-Development-JavaScript-introduction-ebook/dp/B00CYMN3J2) | `paid`
+[Test-Driven JavaScript Development](http://tddjs.com/) | :moneybag:
+[Behaviour Driven Development with JavaScript](http://www.amazon.com/Behaviour-Driven-Development-JavaScript-introduction-ebook/dp/B00CYMN3J2) | :moneybag:
 
 ### Functional Programming
 
 Books | Price
 :-- | :--:
-[Mostly Adequated Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/) | `free`
-[Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) | `paid`
+[Mostly Adequated Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/) | :free:
+[Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) | :moneybag:
 
 ### Object-Oriented Programming
 
 Books | Price
 :-- | :--:
-[The Principles of Object-Oriented JavaScript](http://shop.oreilly.com/product/9781593275402.do) | `paid`
+[The Principles of Object-Oriented JavaScript](http://shop.oreilly.com/product/9781593275402.do) | :moneybag:
 
 ### Performance
 
 Books | Price
 :-- | :--:
-[High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) | `paid`
+[High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) | :moneybag:
 
 ## How to use this list
 
