@@ -23,7 +23,7 @@ Object-Oriented Programming | [JavaScript Spessore](https://leanpub.com/javascri
 Async Programming | [Async JavaScript](https://pragprog.com/book/tbajs/async-javascript) | :moneybag: | November 2012
 Design Patterns & Architectures | [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) | :free: | July 2012
 Single Page Application |[Single page apps in depth](http://singlepageappbook.com/) | :free: | 2013
-Practical Project | [Building A JavaScript Framework](https://s3.amazonaws.com/dailyjs/files/build-a-javascript-framework.pdf) | :free: |
+Practical Project | [Building A JavaScript Framework](https://s3.amazonaws.com/dailyjs/files/build-a-javascript-framework.pdf) | :free: | -
 Practical Project | [Building Front-End Web Apps with Plain JavaScript](https://oxygen.informatik.tu-cottbus.de/webeng/JsFrontendApp/book/) | :free: | -
 Practical Project | [Human JavaScript](http://read.humanjavascript.com/) | :free: | -
 
