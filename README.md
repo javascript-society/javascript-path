@@ -20,7 +20,7 @@ Topic | Books | Price | Release
 Basic JavaScript | [Eloquent JavaScript](http://eloquentjavascript.net/) | :free: | December 2014
 Tooling | [JavaScript Application Design](https://www.manning.com/books/javascript-application-design) | :moneybag: | January 2015
 ES6 | [Exploring ES6](http://exploringjs.com/es6/) | :free: | -
-Testing | [JavaScript Testing Recipes](http://jstesting.jcoglan.com/) | :moneybag: | -
+Testing | [JavaScript Testing Recipes](http://jstesting.jcoglan.com/) | :moneybag: | March 2014
 DOM | [DOM Enlightenment](http://domenlightenment.com/) | :free: | February 2013
 Functional Programming | [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read) | :free: | -
 Object-Oriented Programming | [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) | :free: | -
