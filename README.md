@@ -86,4 +86,4 @@ After you complete the Essential Path, you should keep studying! Just choose one
 
 ## Contributing
 
-See our contributing guideline [here](CONTRIBUTING.md)!
+See our contributing guidelines [here](CONTRIBUTING.md)!
