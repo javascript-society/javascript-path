@@ -83,8 +83,4 @@ After you complete the Essential Path, you should keep studying! Just choose one
 
 ## Contributing
 
-> "Can I submit more books?"
-
-**Yes!** If you want to suggest a new book, just open an issue and tell us which book we should add here.
-
-**OBS**: After **10** people approve (:+1:) your suggestion, the book will be included in our list.
+See our contributing guideline [here](CONTRIBUTING.md)!
