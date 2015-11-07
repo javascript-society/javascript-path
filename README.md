@@ -1,10 +1,6 @@
-# JavaScript Society
+# JavaScript Path
 
-![javascript logo](http://i.imgur.com/7S2hN2F.jpg)
-
-## JavaScript Path
-
-### :books: List of books to master JavaScript Development
+:books: List of books to master JavaScript Development
 
 ## Contents
 
