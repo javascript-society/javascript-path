@@ -75,7 +75,9 @@ Books | Price | Release
 
 ## How to use this list
 
-Start with the first book, and after finish it, go down to the next one. Repeat this process until you finish all books. :smile:
+Start with the first book of the [Essential Path](#essential-path), and after finish it, read the next one. Repeat this process until you finish all books from the Essential Path.
+
+After you complete the Essential Path, you should keep studying! Just choose one book that is listed in our [Additional Resources](#additional-resources) section. You don't need to read those books in such section in order, you should pick the one that you are most interested! :smile:
 
 **PROTIP**: try to **create** and **deploy** at least one practical project after you finish each book.
 
