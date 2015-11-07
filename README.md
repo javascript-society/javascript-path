@@ -12,7 +12,7 @@
 ## Essential Path
 
 Topic | Books | Price | Release
-:-- | :-- | :--:
+:-- | :-- | :--: | :--:
 Basic JavaScript | [Eloquent JavaScript](http://eloquentjavascript.net/) | :free: | December 2014
 Tooling | [JavaScript Application Design](https://www.manning.com/books/javascript-application-design) | :moneybag: | January 2015
 ES6 | [Exploring ES6](http://exploringjs.com/es6/) | :free: | -
@@ -32,7 +32,7 @@ Practical Project | [Human JavaScript](http://read.humanjavascript.com/) | :free
 ### General Concepts
 
 Books | Price | Release
-:-- | :--:
+:-- | :--: | :--:
 [Secrets of the JavaScript Ninja, Second Edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition) | :moneybag: | January 2016 (estimated)
 [Effective JavaScript](http://effectivejs.com/) | :moneybag: | December 2012
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) | :free: | -
@@ -44,33 +44,33 @@ Books | Price | Release
 ### ES6
 
 Books | Price | Release
-:-- | :--:
+:-- | :--: | :--:
 [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/) | :free: | -
 
 ### Testing
 
 Books | Price | Release
-:-- | :--:
+:-- | :--: | :--:
 [Test-Driven JavaScript Development](http://tddjs.com/) | :moneybag: | September 2010
 [Behaviour Driven Development with JavaScript](http://www.amazon.com/Behaviour-Driven-Development-JavaScript-introduction-ebook/dp/B00CYMN3J2) | :moneybag: | November 2013
 
 ### Functional Programming
 
 Books | Price | Release
-:-- | :--:
+:-- | :--: | :--:
 [Mostly Adequated Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/) | :free: | -
 [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) | :moneybag: | June 2013
 
 ### Object-Oriented Programming
 
 Books | Price | Release
-:-- | :--:
+:-- | :--: | :--:
 [The Principles of Object-Oriented JavaScript](http://shop.oreilly.com/product/9781593275402.do) | :moneybag: | February 2014
 
 ### Performance
 
 Books | Price | Release
-:-- | :--:
+:-- | :--: | :--:
 [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) | :moneybag: | March 2010
 
 ## How to use this list
