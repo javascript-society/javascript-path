@@ -1,5 +1,8 @@
 # JavaScript Path
 
+[![JavaScript Path](https://img.shields.io/badge/JavaScript%20Society-JavaScript%20Path-green.svg?style=flat-square)](https://github.com/javascript-society/javascript-path)
+![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
+
 :books: List of books to master JavaScript Development
 
 ## Contents
