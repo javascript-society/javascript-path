@@ -62,7 +62,7 @@ Books | Price | Release
 
 Books | Price | Release
 :-- | :--: | :--:
-[Mostly Adequated Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/) | :free: | -
+[Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/) | :free: | -
 [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) | :moneybag: | June 2013
 
 ### Object-Oriented Programming
