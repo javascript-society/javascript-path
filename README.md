@@ -17,38 +17,41 @@
 
 Topic | Books | Price | Release
 :-- | :-- | :--: | :--:
-Basic JavaScript | [Eloquent JavaScript](http://eloquentjavascript.net/) | :free: | December 2014
-Tooling | [JavaScript Application Design](https://www.manning.com/books/javascript-application-design) | :moneybag: | January 2015
+Learn JavaScript | [Eloquent JavaScript](http://eloquentjavascript.net/) | :free: | December 2014
 ES6 | [Exploring ES6](http://exploringjs.com/es6/) | :free: | -
-Testing | [JavaScript Testing Recipes](http://jstesting.jcoglan.com/) | :moneybag: | March 2014
+Tooling | [Setting up ES6](https://leanpub.com/setting-up-es6/read)
+Testing | [JavaScript Testing Recipes](http://jstesting.jcoglan.com/) | :free: | March 2014
 DOM | [DOM Enlightenment](http://domenlightenment.com/) | :free: | February 2013
 Functional Programming | [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read) | :free: | -
 Object-Oriented Programming | [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) | :free: | -
-Async Programming | [Async JavaScript](https://pragprog.com/book/tbajs/async-javascript) | :moneybag: | November 2012
+Asynchronous Programming & Performance | [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) | :free: | February 2015
 Design Patterns & Architectures | [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) | :free: | July 2012
-Single Page Application |[Single page apps in depth](http://singlepageappbook.com/) | :free: | 2013
-Practical Project | [Building A JavaScript Framework](https://s3.amazonaws.com/dailyjs/files/build-a-javascript-framework.pdf) | :free: | -
-Practical Project | [Building Front-End Web Apps with Plain JavaScript](https://oxygen.informatik.tu-cottbus.de/webeng/JsFrontendApp/book/) | :free: | -
-Practical Project | [Human JavaScript](http://read.humanjavascript.com/) | :free: | -
+Workflow | [JavaScript Application Design](https://www.manning.com/books/javascript-application-design) | :moneybag: | January 2015
 
 ## Additional Resources
 
-### General Concepts
+### Learn JavaScript
 
 Books | Price | Release
 :-- | :--: | :--:
-[Secrets of the JavaScript Ninja, Second Edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition) | :moneybag: | January 2016 (estimated)
-[Effective JavaScript](http://effectivejs.com/) | :moneybag: | December 2012
-[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) | :free: | -
-[JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) | :moneybag: | May 2008
 [Professional JavaScript for Web Developers, 3rd Edition](http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-3rd-Edition.productCd-1118222199.html) | :moneybag: | December 2011
 [Speaking JavaScript](http://speakingjs.com/es5/) | :free: | February 2014
 [JavaScript: The Definitive Guide, 6th Edition](http://shop.oreilly.com/product/9780596805531.do) | :moneybag: | April 2011
 
-### ES6
+### Going Deep
 
 Books | Price | Release
 :-- | :--: | :--:
+[JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) | :moneybag: | May 2008
+[Secrets of the JavaScript Ninja, Second Edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition) | :moneybag: | January 2016 (estimated)
+[Effective JavaScript](http://effectivejs.com/) | :moneybag: | December 2012
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) | :free: | -
+
+### ES.next
+
+Books | Price | Release
+:-- | :--: | :--:
+[Exploring ES2016 and ES2017](https://leanpub.com/exploring-es2016-es2017/read) | :free: | -
 [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/) | :free: | -
 
 ### Testing
@@ -56,7 +59,7 @@ Books | Price | Release
 Books | Price | Release
 :-- | :--: | :--:
 [Test-Driven JavaScript Development](http://tddjs.com/) | :moneybag: | September 2010
-[Behaviour Driven Development with JavaScript](http://www.amazon.com/Behaviour-Driven-Development-JavaScript-introduction-ebook/dp/B00CYMN3J2) | :moneybag: | November 2013
+[Behaviour Driven Development with JavaScript](http://developerpress.com/BehaviourDrivenDevelopmentwithJavaScript-175419) | :moneybag: | November 2013
 
 ### Functional Programming
 
@@ -70,6 +73,12 @@ Books | Price | Release
 Books | Price | Release
 :-- | :--: | :--:
 [The Principles of Object-Oriented JavaScript](http://shop.oreilly.com/product/9781593275402.do) | :moneybag: | February 2014
+
+### Asynchronous Programming
+
+Books | Price | Release
+:-- | :--: | :--:
+[Async JavaScript](https://pragprog.com/book/tbajs/async-javascript) | :moneybag: | November 2012
 
 ### Performance
 
