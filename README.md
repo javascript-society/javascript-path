@@ -23,7 +23,7 @@ Tooling | [Setting up ES6](https://leanpub.com/setting-up-es6/read) | :free: | J
 Testing | [JavaScript Testing Recipes](http://jstesting.jcoglan.com/) | :free: | March 2014
 DOM | [DOM Enlightenment](http://domenlightenment.com/) | :free: | February 2013
 Functional Programming | [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read) | :free: | -
-Design Patterns & Architectures | [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) | :free: | July 2012
+Design Patterns | [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) | :free: | July 2012
 Workflow | [JavaScript Application Design](https://www.manning.com/books/javascript-application-design) | :moneybag: | January 2015
 Object-Oriented Programming | [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) | :free: | -
 Asynchronous Programming & Performance | [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) | :free: | February 2015
@@ -61,6 +61,12 @@ Books | Price | Release
 :-- | :--: | :--:
 [Test-Driven JavaScript Development](http://tddjs.com/) | :moneybag: | September 2010
 [Behaviour Driven Development with JavaScript](http://developerpress.com/BehaviourDrivenDevelopmentwithJavaScript-175419) | :moneybag: | November 2013
+
+### Design Patterns
+
+Books | Price | Release
+:-- | :--: | :--:
+[JavaScript Patterns](http://shop.oreilly.com/product/9780596806767.do) | :moneybag: | September 2010
 
 ### Functional Programming
 
