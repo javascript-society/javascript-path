@@ -46,6 +46,7 @@ Books | Price | Release
 [Secrets of the JavaScript Ninja, Second Edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition) | :moneybag: | August 2016 (estimated)
 [Effective JavaScript](http://effectivejs.com/) | :moneybag: | December 2012
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) | :free: | -
+[Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) | :free: | June 2014
 
 ### ES.next
 
