@@ -43,7 +43,7 @@ Books | Price | Release
 Books | Price | Release
 :-- | :--: | :--:
 [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) | :moneybag: | May 2008
-[Secrets of the JavaScript Ninja, Second Edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition) | :moneybag: | January 2016 (estimated)
+[Secrets of the JavaScript Ninja, Second Edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition) | :moneybag: | August 2016 (estimated)
 [Effective JavaScript](http://effectivejs.com/) | :moneybag: | December 2012
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) | :free: | -
 
