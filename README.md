@@ -20,7 +20,7 @@ Topic | Books | Price | Release
 Learn JavaScript | [Eloquent JavaScript](http://eloquentjavascript.net/) | :free: | December 2014
 ES6 | [Exploring ES6](http://exploringjs.com/es6/) | :free: | June 2015
 Tooling | [Setting up ES6](https://leanpub.com/setting-up-es6/read) | :free: | January 2016
-Testing | [JavaScript Testing Recipes](http://jstesting.jcoglan.com/) | :free: | March 2014
+Testing | [JavaScript Testing Recipes](http://jstesting.jcoglan.com/) | :moneybag: | March 2014
 DOM | [DOM Enlightenment](http://domenlightenment.com/) | :free: | February 2013
 Functional Programming | [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read) | :free: | -
 Design Patterns | [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) | :free: | July 2012
