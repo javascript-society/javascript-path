@@ -16,9 +16,9 @@ Topic | Books | Price | Release
 :-- | :-- | :--: | :--:
 Learn JavaScript | [Eloquent JavaScript](http://eloquentjavascript.net/) | :free: | December 2014
 Functional Programming | [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/) | :free: | -
+Asynchronous Programming & Performance | [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) | :free: | February 2015
 ES6 | [Exploring ES6](http://exploringjs.com/es6/) | :free: | June 2015
 Tooling | [Setting up ES6](https://leanpub.com/setting-up-es6/read) | :free: | January 2016
-Asynchronous Programming & Performance | [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) | :free: | February 2015
 
 ## Additional Resources
 ### Learn JavaScript
