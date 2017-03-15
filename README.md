@@ -70,7 +70,7 @@ Books | Price | Release
 ### Object-Oriented Programming
 Books | Price | Release
 :-- | :--: | :--:
-Object-Oriented Programming | [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) | :free: | -
+[JavaScript Spessore](https://leanpub.com/javascript-spessore/read) | :free: | -
 [The Principles of Object-Oriented JavaScript](http://shop.oreilly.com/product/9781593275402.do) | :moneybag: | February 2014
 
 ### Asynchronous Programming
