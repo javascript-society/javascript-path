@@ -14,7 +14,7 @@
 ## Essential Path
 Topic | Books | Price | Release
 :-- | :-- | :--: | :--:
-Learn JavaScript | [Eloquent JavaScript](http://eloquentjavascript.net/) | :free: | December 2014
+Learn JavaScript | [Eloquent JavaScript, 3rd Edition](http://eloquentjavascript.net/) | :free: | September 2018
 Functional Programming | [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/) | :free: | -
 Asynchronous Programming & Performance | [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) | :free: | February 2015
 ES6 | [Exploring ES6](http://exploringjs.com/es6/) | :free: | June 2015
