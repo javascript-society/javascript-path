@@ -15,8 +15,8 @@
 Topic | Books | Price | Release
 :-- | :-- | :--: | :--:
 Learn JavaScript | [Eloquent JavaScript, 3rd Edition](http://eloquentjavascript.net/) | :free: | September 2018
-Functional Programming | [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/) | :free: | -
-Asynchronous Programming & Performance | [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) | :free: | February 2015
+Functional Programming | [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/) | :free: | -
+Asynchronous Programming & Performance 1st Edition| [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20&%20performance/README.md#you-dont-know-js-async--performance) | :free: | February 2015
 ES6 | [Exploring ES6](http://exploringjs.com/es6/) | :free: | June 2015
 Tooling | [Setting up ES6](https://leanpub.com/setting-up-es6/read) | :free: | January 2016
 
@@ -40,7 +40,7 @@ Books | Price | Release
 ### ES.next
 Books | Price | Release
 :-- | :--: | :--:
-[Exploring ES2016 and ES2017](https://leanpub.com/exploring-es2016-es2017/read) | :free: | -
+[Exploring ES2016 and ES2017](https://exploringjs.com/es2016-es2017.html) | :free: | -
 [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/) | :free: | -
 
 ### Browser Development
@@ -53,7 +53,6 @@ Books | Price | Release
 :-- | :--: | :--:
 [JavaScript Testing Recipes](http://jstesting.jcoglan.com/) | :moneybag: | March 2014
 [Test-Driven JavaScript Development](http://tddjs.com/) | :moneybag: | September 2010
-[Behaviour Driven Development with JavaScript](http://developerpress.com/BehaviourDrivenDevelopmentwithJavaScript-175419) | :moneybag: | November 2013
 
 ### Design Patterns
 Books | Price | Release
@@ -70,7 +69,6 @@ Books | Price | Release
 ### Object-Oriented Programming
 Books | Price | Release
 :-- | :--: | :--:
-[JavaScript Spessore](https://leanpub.com/javascript-spessore/read) | :free: | -
 [The Principles of Object-Oriented JavaScript](http://shop.oreilly.com/product/9781593275402.do) | :moneybag: | February 2014
 
 ### Asynchronous Programming
