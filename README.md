@@ -112,3 +112,6 @@ You can create this project alone or with colleagues!
 
 ## Contributing
 See our contributing guidelines [here](CONTRIBUTING.md)!
+
+## License
+[MIT](LICENSE)
